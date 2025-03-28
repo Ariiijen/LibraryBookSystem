@@ -5,7 +5,7 @@ A responsive web-based application to manage a collection of books, built with H
 ![image](https://github.com/user-attachments/assets/b4266655-235e-4275-a9e0-69c8f2b35b00)
 
 ## ✨ Features
-Add Books: Easily add new books with title, author, and publication year.
+ - Add Books: Easily add new books with title, author, and publication year.
 Remove Books: Remove books from the library by title.
 Search Books: Search for books by title with partial matching.
 Display All Books: View the entire library collection with real-time updates.
