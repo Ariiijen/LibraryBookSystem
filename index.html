@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">📚 Library Management</h1>
+        
+        <div class="menu">
+            <button onclick="showSection('add')" class="menu-btn">Add Book</button>
+            <button onclick="showSection('remove')" class="menu-btn">Remove Book</button>
+            <button onclick="showSection('search')" class="menu-btn">Search Book</button>
+            <button onclick="showSection('display')" class="menu-btn">Show All Books</button>
+        </div>
+
+        <div id="add" class="section">
+            <h2>Add New Book</h2>
+            <input type="text" id="add-title" placeholder="Book Title">
+            <input type="text" id="add-author" placeholder="Author">
+            <input type="number" id="add-year" placeholder="Year">
+            <button onclick="addBook()" class="action-btn">Add to Library</button>
+        </div>
+
+        <div id="remove" class="section hidden">
+            <h2>Remove Book</h2>
+            <input type="text" id="remove-title" placeholder="Book Title">
+            <button onclick="removeBook()" class="action-btn">Remove</button>
+        </div>
+
+        <div id="search" class="section hidden">
+            <h2>Search Book</h2>
+            <input type="text" id="search-title" placeholder="Book Title">
+            <button onclick="searchBook()" class="action-btn">Search</button>
+        </div>
+
+        <div id="display" class="section hidden">
+            <h2>Library Collection</h2>
+            <div id="book-list"></div>
+        </div>
+
+        <div id="message" class="message"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
