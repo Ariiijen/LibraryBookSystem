@@ -6,28 +6,25 @@ A responsive web-based application to manage a collection of books, built with H
 
 ## ✨ Features
  - Add Books: Easily add new books with title, author, and publication year.
-Remove Books: Remove books from the library by title.
-Search Books: Search for books by title with partial matching.
-Display All Books: View the entire library collection with real-time updates.
-Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
-Aesthetic UI: Soft peach, pink, and white color scheme with smooth animations and hover effects.
-Real-time Updates: Book list updates automatically when adding or removing books while viewing the collection.
+ - Remove Books: Remove books from the library by title.
+ - Search Books: Search for books by title with partial matching.
+ - Display All Books: View the entire library collection with real-time updates.
+ - Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
+ - Aesthetic UI: Soft peach, pink, and white color scheme with smooth animations and hover effects.
+ - Real-time Updates: Book list updates automatically when adding or removing books while viewing the collection.
 
 ## 🛠️ Installation
 Follow these steps to set up the project locally:
 
-Clone or Download the Repository
-
-Clone: git clone <repository-url>
+ - Clone or Download the Repository
+ - Clone: git clone <repository-url>
 Or download the ZIP file and extract it.
-Navigate to the Project Directory
-cd library-management-system
-Open the Project
-
-Open index.html in a web browser (e.g., Chrome, Firefox) by double-clicking it or using a local server.
-Optional: Use a local server for better experience
-
-Install a simple server like live-server via npm:
+ - Navigate to the Project Directory
+ - cd library-management-system
+ - Open the Project
+ - Open index.html in a web browser (e.g., Chrome, Firefox) by double-clicking it or using a local server.
+ - Optional: Use a local server for better experience
+ - Install a simple server like live-server via npm:
 bash
 
 ## Copy
@@ -49,10 +46,10 @@ Watch animations as sections load and messages appear.
 Enjoy the responsive layout on any device!
 
 ## 🎨 Design Highlights
-Color Palette:
-Peach: #FFF5F0, #FFE4E1
-Pink: #FF9999, #FFB6C1
-White: #FFFFFF
+ - Color Palette:
+ - Peach: #FFF5F0, #FFE4E1
+ - Pink: #FF9999, #FFB6C1
+ - White: #FFFFFF
 Animations: Fade-in for the container, slide-in for messages, and hover transitions.
 Responsive: Flexbox layout with media queries for smaller screens.
 
