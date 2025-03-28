@@ -1,10 +1,10 @@
-##📚 Library Management System
+## 📚 Library Management System
 A responsive web-based application to manage a collection of books, built with HTML, CSS, and JavaScript. This project features a modern, aesthetic design with a peach, pink, and white color palette, complete with animations and hover effects.
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/b4266655-235e-4275-a9e0-69c8f2b35b00)
 
-##✨ Features
+## ✨ Features
 Add Books: Easily add new books with title, author, and publication year.
 Remove Books: Remove books from the library by title.
 Search Books: Search for books by title with partial matching.
@@ -13,7 +13,7 @@ Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 Aesthetic UI: Soft peach, pink, and white color scheme with smooth animations and hover effects.
 Real-time Updates: Book list updates automatically when adding or removing books while viewing the collection.
 
-##🛠️ Installation
+## 🛠️ Installation
 Follow these steps to set up the project locally:
 
 Clone or Download the Repository
