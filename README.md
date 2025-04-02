@@ -60,10 +60,10 @@ library-management-system/
 └── script.js       # JavaScript logic for library management
 
 ## 🚀 Future Enhancements
-Add local storage to persist books between sessions.
-Implement sorting and filtering options for the book list.
-Add book cover image upload functionality.
-Include a dark mode toggle.
+ - Add local storage to persist books between sessions.
+ - Implement sorting and filtering options for the book list.
+ - Add book cover image upload functionality.
+ - Include a dark mode toggle.
 
 ## 🤝 Contributing
 Feel free to fork this project, submit issues, or create pull requests. Contributions are welcome!
