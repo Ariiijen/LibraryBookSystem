@@ -28,9 +28,9 @@ Or download the ZIP file and extract it.
 bash
 
 ## Copy
-npm install -g live-server
-live-server
-This will automatically open the project in your default browser with live reloading.
+ - npm install -g live-server
+ - live-server
+ - This will automatically open the project in your default browser with live reloading.
 
 ## 📖 Usage
  - Open the Application
