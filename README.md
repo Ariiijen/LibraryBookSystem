@@ -33,25 +33,25 @@ live-server
 This will automatically open the project in your default browser with live reloading.
 
 ## 📖 Usage
-Open the Application
-Launch index.html in your browser.
-Navigate the Menu
-Add Book: Enter title, author, and year, then click "Add to Library".
-Remove Book: Enter the title of the book to remove and click "Remove".
-Search Book: Enter a title (or part of it) and click "Search" to find a book.
-Show All Books: View the current library collection, updated in real-time.
-Interact with the UI
-Hover over buttons for visual feedback.
-Watch animations as sections load and messages appear.
-Enjoy the responsive layout on any device!
+ - Open the Application
+ - Launch index.html in your browser.
+ - Navigate the Menu
+ - Add Book: Enter title, author, and year, then click "Add to Library".
+ - Remove Book: Enter the title of the book to remove and click "Remove".
+ - Search Book: Enter a title (or part of it) and click "Search" to find a book.
+ - Show All Books: View the current library collection, updated in real-time.
+ - Interact with the UI
+ - Hover over buttons for visual feedback.
+ - Watch animations as sections load and messages appear.
+ - Enjoy the responsive layout on any device!
 
 ## 🎨 Design Highlights
  - Color Palette:
  - Peach: #FFF5F0, #FFE4E1
  - Pink: #FF9999, #FFB6C1
  - White: #FFFFFF
-Animations: Fade-in for the container, slide-in for messages, and hover transitions.
-Responsive: Flexbox layout with media queries for smaller screens.
+ - Animations: Fade-in for the container, slide-in for messages, and hover transitions.
+ - Responsive: Flexbox layout with media queries for smaller screens.
 
 ## 📂 Project Structure
 library-management-system/
@@ -68,11 +68,11 @@ library-management-system/
 ## 🤝 Contributing
 Feel free to fork this project, submit issues, or create pull requests. Contributions are welcome!
 
-Fork the repository.
-Create a new branch: git checkout -b feature-name.
-Make your changes and commit: git commit -m "Add feature".
-Push to the branch: git push origin feature-name.
-Submit a pull request.
+ - Fork the repository.
+ - Create a new branch: git checkout -b feature-name.
+ - Make your changes and commit: git commit -m "Add feature".
+ - Push to the branch: git push origin feature-name.
+ - Submit a pull request.
 
 ## 📅 Created
 Date: March 28, 2025
